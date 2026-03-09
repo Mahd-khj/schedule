@@ -61,7 +61,7 @@ The application uses a modular, layered design for scalability and maintainabili
 - MySQL (for data storage)
 - XLSX.js (for Excel file processing)
 - Drag and Drop API
-- Canvas or dom-to-image (for schedule export)
+- dom-to-image (for schedule export)
 
 ---
 
