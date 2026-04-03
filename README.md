@@ -55,9 +55,10 @@ The application uses a modular, layered design for scalability and maintainabili
 ---
 
 ## Technologies Used
+- Next.js
 - HTML
 - CSS
-- JavaScript
+- TypeScript
 - MySQL (for data storage)
 - XLSX.js (for Excel file processing)
 - Drag and Drop API
